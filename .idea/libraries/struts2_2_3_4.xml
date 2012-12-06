@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="struts2-2.3.4" type="struts2">
+    <properties version="2.3.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/struts2-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/xwork-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/ognl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/asm-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/asm-tree.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-2.3.4/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
